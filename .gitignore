@@ -1,0 +1,18 @@
+# Dependencias npm instaladas localmente
+/node_modules
+
+# Archivos generados por diferentes entornos de desarrollo
+npm-debug.log
+yarn-error.log
+
+# Directorio generado por la herramienta de construcción npm
+/build
+
+# Dependencias específicas del sistema
+.DS_Store
+Thumbs.db
+
+# Archivo de configuración local
+.env
+
+# Cualquier otro archivo o directorio que desees ignorar
